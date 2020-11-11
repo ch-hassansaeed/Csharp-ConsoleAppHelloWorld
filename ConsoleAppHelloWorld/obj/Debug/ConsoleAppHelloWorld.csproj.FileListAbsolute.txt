@@ -1,0 +1,5 @@
+d:\win 7 users data\my documents\visual studio 2015\Projects\ConsoleAppHelloWorld\ConsoleAppHelloWorld\bin\Debug\ConsoleAppHelloWorld.exe
+d:\win 7 users data\my documents\visual studio 2015\Projects\ConsoleAppHelloWorld\ConsoleAppHelloWorld\bin\Debug\ConsoleAppHelloWorld.pdb
+d:\win 7 users data\my documents\visual studio 2015\Projects\ConsoleAppHelloWorld\ConsoleAppHelloWorld\obj\Debug\ConsoleAppHelloWorld.csprojResolveAssemblyReference.cache
+d:\win 7 users data\my documents\visual studio 2015\Projects\ConsoleAppHelloWorld\ConsoleAppHelloWorld\obj\Debug\ConsoleAppHelloWorld.exe
+d:\win 7 users data\my documents\visual studio 2015\Projects\ConsoleAppHelloWorld\ConsoleAppHelloWorld\obj\Debug\ConsoleAppHelloWorld.pdb
